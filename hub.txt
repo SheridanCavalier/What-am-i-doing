@@ -1,1 +1,5 @@
-Hub description
+hub 2106_Inhibitory_R2C2
+shortLabel R2C2 Inhibitory Cells
+longLabel Inhibitory Mouse Cell Reads from Single Cell Long-Read Data (Sheridan Cavalier)
+genomesFile genomes.txt
+email scavali1@jhmi.edu
