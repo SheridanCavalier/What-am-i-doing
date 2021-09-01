@@ -1,5 +1,6 @@
-track uniqueNameNoSpacesOrDots
-type track_type
-bigDataUrl track_data_url
-shortLabel label 17 chars
-longLabel long label up to 80 chars
+track  R2C2_inhib
+bigDataUrl https://github.com/SheridanCavalier/What-am-i-doing/blob/main/2106_Inhibitory_R2C2.sorted.bam
+shortLabel bam bam
+longLabel This is a bam file
+type bam
+visibility dense
